@@ -1,8 +1,8 @@
 ### Hi there 👋, 
-#### I am Front-End developer, DevOPS Engineer
-![I am Front-End developer, DevOPS Engineer](https://media.discordapp.net/attachments/847774225442930688/1090361708750569592/794e88a2fa22a92e.jpg)
+#### I am Front-End developer
+![I am Front-End developer, DevOPS Engineer](https://cdn.discordapp.com/attachments/1125473218766053486/1310336470615330826/IMG_20241124_230902_837.jpg?ex=6744d96f&is=674387ef&hm=6cbcb9b350ee19ac27ed0e452fe60058614d7de571866272de07570a176be0b7&)
 <br>
-Hey 👋🏻 , My Name is Yousif . I'm 20y.o, from Iraq, Baghdad 🇮🇶. I'm Simple Front-End developer , DevOPS Engineer
+Hey 👋🏻 , My Name is Yousif,from Iraq, Baghdad 🇮🇶. I'm Web developer , DevOPS Engineer
 Founder and CEO of @ThailandCodes1
 
 
